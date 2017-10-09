@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:546px;
+  width:558px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -651,7 +651,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:196px;
+  width:208px;
   height:40px;
   background:inherit;
   background-color:rgba(255, 223, 37, 1);
@@ -666,7 +666,7 @@
   position:absolute;
   left:350px;
   top:210px;
-  width:196px;
+  width:208px;
   height:40px;
 }
 #u948_text {
@@ -674,6 +674,6 @@
   position:absolute;
   left:10px;
   top:5px;
-  width:176px;
+  width:188px;
   word-wrap:break-word;
 }

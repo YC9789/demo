@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:974px;
+  width:973px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -2655,8 +2655,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:196px;
-  height:56px;
+  width:195px;
+  height:70px;
   background:inherit;
   background-color:rgba(255, 223, 37, 1);
   border:none;
@@ -2670,14 +2670,14 @@
   position:absolute;
   left:778px;
   top:95px;
-  width:196px;
-  height:56px;
+  width:195px;
+  height:70px;
 }
 #u656_text {
   border-width:0px;
   position:absolute;
   left:10px;
-  top:5px;
-  width:176px;
+  top:12px;
+  width:175px;
   word-wrap:break-word;
 }
