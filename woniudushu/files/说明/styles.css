@@ -96,7 +96,7 @@
   border-width:0px;
   position:absolute;
   left:42px;
-  top:249px;
+  top:240px;
   width:640px;
   height:168px;
   line-height:28px;
@@ -114,8 +114,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:217px;
-  height:18px;
+  width:406px;
+  height:56px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -123,20 +123,22 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  line-height:28px;
 }
 #u3 {
   border-width:0px;
   position:absolute;
   left:42px;
-  top:439px;
-  width:217px;
-  height:18px;
+  top:430px;
+  width:406px;
+  height:56px;
+  line-height:28px;
 }
 #u3_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:217px;
+  width:406px;
   white-space:nowrap;
 }
